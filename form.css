@@ -1,0 +1,52 @@
+
+body{
+    text-align: center;
+    padding: auto 0;
+}
+
+p{
+    text-align: center;
+    padding: 0 auto;
+    
+}
+table{
+    width: 40%; 
+   
+margin: auto;
+
+}
+
+th{
+    background-color: aquamarine;
+}
+td{
+    background-color: 
+}
+
+.container {
+    margin: auto;
+    max-width: 950px;
+  
+}
+
+.container ul {
+    list-style-type: none;
+    background-color:snow;
+}
+
+.container ul li {
+    margin-top: 7px;
+    padding-bottom: 3px;
+    border-bottom: 1px solid #000000;
+}
+
+button{
+    background-color: aquamarine;
+    width: 130px;
+    height: 80px;
+     cursor: pointer;
+}
+a {
+    color: aquamarine;
+    width: 70;
+}
